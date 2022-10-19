@@ -1,0 +1,30 @@
+*{padding: 0;
+margin:0;
+box-sizing: border-box;
+}
+.container{
+max-width: 1400px;
+margin:0 100px;
+}
+.form{
+margin:10px;
+margin-left: 50px;
+}
+.outline{
+border:1px solid blue;
+padding: 50px;
+background-color: aqua;
+color:brown;
+}
+.eee{
+font-weight: 600;
+font-size: 25px;
+}
+.button{
+    padding: 10px 25px;
+font-size:18px;
+}
+.text-3{
+color: fuchsia;
+text-align: center;
+}
